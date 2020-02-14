@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_url": "mysql://root:@localhost/codethunder",
+    "prod_url":"mysql://root:@localhost/codethunder",
+    "fb_url":"https://facbook.com//codethunder",
+    "tw_url":"https://twitter.com",
+    "gh_url": "https://github.com",
+    "blog_name": "Coding Thunder",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"youremailid@gamil.com",
+    "gmail-password":"password",
+    "about_text": "Hi my name is harry and I create programming tutorials and I am a good boy",
+    "no_of_posts": 3,
+    "login_image": "ijk.svg",
+    "admin_user":"Raja123",
+    "admin_pass":"rajaraja",
+    "upload_location":"C:\\Users\\BISWAJEET BARIKI\\Downloads\\Compressed\\Python-Flask-Blog-master\\static"
+
+
+}
+
+  }
